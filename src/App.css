@@ -1,0 +1,190 @@
+/* src/App.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #0b0c10;
+  color: #c5c6c7;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background-color: #1f2833;
+}
+
+.navbar-logo {
+  color: #66fcf1;
+}
+
+.nav-links a {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: #c5c6c7;
+}
+
+.hero {
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.hero-content {
+  text-align: center;
+}
+
+.news-section {
+  padding: 2rem;
+}
+
+.news-cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+.news-card {
+  background-color: #1f2833;
+  padding: 1.5rem;
+  border-radius: 8px;
+  width: 30%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s;
+}
+.app-container {
+  display: flex; /* Use flexbox for layout */
+  flex-direction: column; /* Stack children vertically */
+  min-height: 100vh; /* Full viewport height */
+  background-image: url("/public/images/farm.jpg"); /* Your background image */
+  background-size: cover;
+  background-position: center;
+}
+
+.main-content {
+  flex: 1; /* Allow main content to take available space */
+}
+
+footer {
+  background-color: #333; /* Footer background color */
+  color: white; /* Footer text color */
+  text-align: center; /* Centered text */
+  padding: 20px; /* Padding for spacing */
+}
+/* src/App.css */
+.about {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.about h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #66fcf1;
+}
+
+.about p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  color: #fffefe;
+}
+.about h2, .about p {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7); /* Adds a shadow effect */
+}
+
+/* src/App.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #0b0c10;
+  color: #c5c6c7;
+}
+
+.suggestions-container {
+  padding: 2rem;
+  max-width: 600px;
+  margin: 2rem auto;
+  background-color: #1f2833;
+  border-radius: 8px;
+  color: #c5c6c7;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.suggestions-container h2 {
+  color: #66fcf1;
+}
+
+.suggestions-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Styling for form fields */
+.suggestions-container form div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.suggestions-container label {
+  width: 100px;
+  margin-right: 10px;
+  text-align: right;
+}
+
+.suggestions-container input,
+.suggestions-container textarea {
+  flex: 1;
+  padding: 0.5rem;
+  border: 1px solid #c5c6c7;
+  border-radius: 4px;
+}
+
+.suggestions-container button {
+  padding: 0.7rem;
+  background-color: #66fcf1;
+  border: none;
+  border-radius: 4px;
+  color: #0b0c10;
+  cursor: pointer;
+}
+
+.suggestions-container button:hover {
+  background-color: #45a29e;
+}
+
+/* Past Suggestions styling */
+.past-suggestions {
+  margin-top: 2rem;
+}
+
+.suggestion-card {
+  background-color: #0b0c10;
+  color: #c5c6c7;
+  padding: 1rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* src/components/FakeChatbot.css */
+.chatbot-container {
+  padding: 2rem;
+  background-color: #1f2833; /* Dark background */
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 2rem auto; /* Center the chatbot */
+  color: #c5c6c7; /* Text color */
+}
+
+.chat-box {
+  background-color: #0b0c10; /* Box color for each chat */
+  padding: 1rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
