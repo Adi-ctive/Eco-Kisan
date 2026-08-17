@@ -21,3 +21,19 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Secrets, never commit
+.env
+*.pem
+*.key
+credentials*.json
+service-account*.json
+
+# Video does not go in git
+*.mp4
+*.mov
+*.webm
+
+# Never commit a nested .git directory as plain files.
+# That is how this project's source ended up hidden on a stray branch.
+**/.git/
