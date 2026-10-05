@@ -1,7 +1,14 @@
 # Eco-Kisan
 
 A web platform aimed at farmers in the stubble burning belt, built by
-**Team Quasar** over a weekend in October 2024.
+**Team Quasar** over a weekend in October 2024 for **AVISHKAAR Season 2**, a
+national 48 hour hackathon run by Aditya Institute of Technology and Management,
+Tekkali, powered by GeeksforGeeks and listed on Unstop.
+
+Round one was a two page abstract and a one minute video pitch, submitted on
+27 October 2024. The team was selected for the grand finale in December and did
+not attend, because end semester exams fell in the same window. That is where
+the code stops.
 
 The problem it targets is *parali* burning. Farmers clear crop residue by
 burning it because burning is fast, cheap and requires nothing they do not
