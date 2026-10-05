@@ -1,0 +1,129 @@
+Project No. 3 of going back through everything I built and never posted about. Eco-Kisan, October 2024, three weeks after the NASA one and with the same team.
+
+AVISHKAAR Season 2, a national hackathon run by AITAM Tekkali and powered by GeeksforGeeks. We found it on Unstop. The brief was real problems in rural and urban India. We went at stubble burning.
+
+Every October and November the air in North India collapses. A large part of that is parali, the crop residue left after harvest. It gets burned because burning is fast, free and needs nothing a farmer does not already own. It also starts forest fires.
+
+I wrote the whole platform down in one message on 25 October, before any code existed. Pollution index data and drone surveillance to catch sudden spikes, officials notified when one is detected so somebody can act on it, education on the alternatives to burning, government schemes by region, weather and crop and water needs, and live market rates so a farmer knows what the crop is worth before selling it.
+
+One line in that spec I still think was the right call. Voice and text chat in multiple languages, because the people this is built for may not read well.
+
+I asked for name suggestions, then asked for them in Hindi, and picked Eco-Kisan out of that.
+
+The page that mattered most in the build was farming techniques, because that is where the actual answer sits. Crop rotation with legumes to put nitrogen back in the soil and cut the fertiliser bill. Mulching the residue in place to hold moisture and suppress weeds. Composting it. No-till. The choppers and mulchers that already exist for exactly this. And the state subsidies on that machinery. Every one of those takes away a reason to burn.
+
+The news feed was built on the real October 2024 reporting rather than filler, over 400 recorded burning incidents across Punjab and Haryana and the Supreme Court criticising both state governments on enforcement.
+
+Round one was a two page abstract and a one minute video. I wrote that pitch and cut it four times over, because every version was still running past a minute and still spilling onto a third page. Submitted 27 October.
+
+We got through to the grand finale in December.
+
+We did not go. End semester exams were right on top of us and we made the call to sit them instead.
+
+Built with Team Quasar: Aditya Naidu, Nehal Mishra, Ananya Jain, Chirag Pithadia, Nishita Dubey and Me.
+
+Repo and the demo video in comments.
+
+#AVISHKAAR #Hackathon #GeeksforGeeks #Agritech #StubbleBurning
+
+==================================================
+2510 characters in the composer, blank lines included. Cap is 3000.
+==================================================
+
+==================================================
+FIRST COMMENT
+==================================================
+
+Repo: https://github.com/Adi-ctive/Eco-Kisan
+Demo video: https://www.youtube.com/watch?v=kBAwqGT-3Yk
+
+==================================================
+ATTACH
+==================================================
+
+card-1.png  card-2.png  card-3.png
+(1200x1200 each, carousel order, original work, copyright clean)
+
+In C:\Users\adity\Downloads\EcoKisan-linkedin-post3\
+
+Also in that folder, NOT in the attach list, see the copyright note:
+  home.png  about.png  suggestions.png  chatbot.png  techniques.png
+
+==================================================
+TAG
+==================================================
+
+Aditya Institute of Technology and Management (AITAM)
+GeeksforGeeks
+Unstop
+Acropolis Institute of Technology and Research
+Team members, if they are on LinkedIn
+
+==================================================
+WHAT I CONFIRMED ONLINE
+==================================================
+
+AVISHKAAR Season 2, Aditya Institute of Technology and Management,
+Tekkali, Andhra Pradesh. A national level 48 hour hackathon, powered by
+GeeksforGeeks, listed on Unstop. Stated themes were digital empowerment,
+agriculture, healthcare, education and sustainability, aimed at real
+problems in rural and urban India. Round 1 was a problem statement
+submission, a one minute video pitch plus an abstract, dated 27 October
+2024. The grand finale was listed as tentatively December, in person at
+Tekkali, three days and two nights, with selected teams covering their
+own food and accommodation.
+
+That 27 October date is the same day as the only commit in the repo, and
+it explains the pitch script you were cutting down on 25 October. I have
+put the abstract and video round into the post because of that.
+
+The Season 2 page itself is gone from Unstop now. Seasons 3 and 4 are
+still up and both were used to confirm the series and the organiser.
+
+==================================================
+ONE THING THAT DOES NOT LINE UP
+==================================================
+
+Unstop lists AVISHKAAR team size as 2 to 4 members, on Seasons 3 and 4.
+I could not load the Season 2 page to check whether it was the same then.
+You said six, your own pitch script from 25 October says "Team quasar is
+a team consisting of three students", and the repo credits six.
+
+The post names six people and states no number, so it reads fine either
+way. But if only three or four of you were actually registered, you may
+want to say "built with" rather than imply all six competed. Your call,
+I am not going to pick for you.
+
+==================================================
+WHAT CHANGED FROM THE FIRST DRAFT
+==================================================
+
+Added the hackathon, the round 1 abstract and video, and the December
+finale you did not attend.
+
+The finale is now the ending, and it answers the question I could not
+answer before, which was why the code stopped where it did. It stopped
+because you stopped. Exams. That is a real reason and it is yours, so I
+used it.
+
+Cut: a closing line I had written about the gap between the pitch and
+the build being the honest part. That was my opinion in your mouth, and
+it was also the 160 characters I needed to get under the cap.
+
+==================================================
+COPYRIGHT PROBLEM WITH THE UI SCREENSHOTS
+==================================================
+
+I ran the app and shot all five pages. Every one is dominated by
+public/images/farm.jpg, one 1 MB photograph of a farmer in a field that
+was downloaded from somewhere in 2024 and is credited nowhere in the
+repo. It is the full bleed background on every route and the UI panels
+sit on top of it at low opacity, so the text is barely readable anyway.
+
+There is no clean UI screenshot to take. The two GIFs already in the
+repo have the same photo behind them.
+
+Your call. A screenshot of your own project is a normal thing to post
+and nobody is coming after a student hackathon page. But the rule we set
+for this series was original work only, so it is not in the attach list
+unless you say so.

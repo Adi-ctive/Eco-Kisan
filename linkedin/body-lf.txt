@@ -1,0 +1,27 @@
+Project No. 3 of going back through everything I built and never posted about. Eco-Kisan, October 2024, three weeks after the NASA one and with the same team.
+
+AVISHKAAR Season 2, a national hackathon run by AITAM Tekkali and powered by GeeksforGeeks. We found it on Unstop. The brief was real problems in rural and urban India. We went at stubble burning.
+
+Every October and November the air in North India collapses. A large part of that is parali, the crop residue left after harvest. It gets burned because burning is fast, free and needs nothing a farmer does not already own. It also starts forest fires.
+
+I wrote the whole platform down in one message on 25 October, before any code existed. Pollution index data and drone surveillance to catch sudden spikes, officials notified when one is detected so somebody can act on it, education on the alternatives to burning, government schemes by region, weather and crop and water needs, and live market rates so a farmer knows what the crop is worth before selling it.
+
+One line in that spec I still think was the right call. Voice and text chat in multiple languages, because the people this is built for may not read well.
+
+I asked for name suggestions, then asked for them in Hindi, and picked Eco-Kisan out of that.
+
+The page that mattered most in the build was farming techniques, because that is where the actual answer sits. Crop rotation with legumes to put nitrogen back in the soil and cut the fertiliser bill. Mulching the residue in place to hold moisture and suppress weeds. Composting it. No-till. The choppers and mulchers that already exist for exactly this. And the state subsidies on that machinery. Every one of those takes away a reason to burn.
+
+The news feed was built on the real October 2024 reporting rather than filler, over 400 recorded burning incidents across Punjab and Haryana and the Supreme Court criticising both state governments on enforcement.
+
+Round one was a two page abstract and a one minute video. I wrote that pitch and cut it four times over, because every version was still running past a minute and still spilling onto a third page. Submitted 27 October.
+
+We got through to the grand finale in December.
+
+We did not go. End semester exams were right on top of us and we made the call to sit them instead.
+
+Built with Team Quasar: Aditya Naidu, Nehal Mishra, Ananya Jain, Chirag Pithadia, Nishita Dubey and Me.
+
+Repo and the demo video in comments.
+
+#AVISHKAAR #Hackathon #GeeksforGeeks #Agritech #StubbleBurning
