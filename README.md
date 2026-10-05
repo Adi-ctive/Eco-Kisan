@@ -30,10 +30,9 @@ The pitch video describes drone surveillance, a live pollution index, multilingu
 voice support, government scheme access and live market rates. What exists in this
 repository is the front end, with those parts stubbed.
 
-The team was honest about that in the code itself. The chatbot component is named
-`FakeChatbot`. It does a single substring match on one phrase about reducing
-parali burning, returns one hardcoded paragraph, and otherwise says it cannot
-help. Nobody dressed it up as a model.
+The chatbot does a single substring match on one phrase about reducing parali
+burning, returns one hardcoded paragraph, and otherwise says it cannot help.
+There is no model behind it.
 
 `three`, `@react-three/fiber` and `@react-google-maps/api` are all in
 `package.json` and **none of them are imported anywhere in `src/`**. The 3D drone
